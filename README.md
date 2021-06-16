@@ -6,11 +6,26 @@
 
 Если у вас есть что-то интересное, то не стесняйтесь писать мне:
 
-<a href="https://vk.com/mrzillagold"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/VK.png"></a> <a href="mailto:mrzillagold@gmail.com"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Gmail.png"></a>
+<code><a href="https://vk.com/mrzillagold"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/VK.png"></a></code> 
+<code><a href="mailto:mrzillagold@gmail.com"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Gmail.png"></a></code>
 
 ### Языки и инструменты
-<img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/JavaScript.png"> <img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/TypeScript.png"> <img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/NodeJS.png"> <img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/React.png"> <img width="32" height="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/WebStorm.png"> <img width="32" height="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Heroku.png">
+<code><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/JavaScript.png"></code> 
+<code><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/TypeScript.png"></code>
+<code><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/NodeJS.png"></code> 
+<code><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/React.png"></code>
+<code><img width="32" height="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/WebStorm.png"></code> 
+<code><img width="32" height="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Heroku.png"></code>
 
-[![MrZillaGold статистика Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MrZillaGold)](https://wakatime.com/@MrZillaGold)
-
-🥰 Свою благодарность и поддержку можно показать ⭐ на любой проект который вам действительно понравился
+### Столько времени я уделил кодингу на прошлой неделе
+<a href="https://vk.com/mrzillagold">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrZillaGold" alt="MrZillaGold: статистика Wakatime"></code>
+</a>
+<br>
+<br>
+<br>
+<p align="center">
+  <b>
+  Поставив ⭐ на любой мой репозиторий вы показываете, что проект вам действительно понравился, а также проявляете свою благодарность и поддержку - это очень сильно мотивирует 🥰
+  </b>
+</p>
