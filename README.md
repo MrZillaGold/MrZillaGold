@@ -18,7 +18,7 @@
 <code><img width="32" height="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Heroku.png"></code>
 
 ### Столько времени я уделил кодингу на прошлой неделе
-<a href="https://vk.com/mrzillagold">
+<a href="https://wakatime.com/@MrZillaGold">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrZillaGold" alt="MrZillaGold: статистика Wakatime"></code>
 </a>
 <br>
