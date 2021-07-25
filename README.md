@@ -6,6 +6,7 @@
 
 Если у вас есть что-то интересное, то не стесняйтесь писать мне:
 
+<code><a href="https://t.me/mrzillagold"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Telegram.png"></a></code> 
 <code><a href="https://vk.com/mrzillagold"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/VK.png"></a></code> 
 <code><a href="mailto:mrzillagold@gmail.com"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Gmail.png"></a></code>
 
