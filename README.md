@@ -1,8 +1,8 @@
 ### Привет, я [@MrZillaGold](https://MrZillaGold.github.io/) 👋
 
-<a href="https://open.spotify.com/album/1gIinCyT0G7g8XtI34Y5QD">🔮</a> Пишу интересные для меня штучки.
+<a href="https://open.spotify.com/album/1gIinCyT0G7g8XtI34Y5QD">🔮</a> Пишу интересные для меня штучки, потратил [![wakatime](https://wakatime.com/badge/user/cdf5e860-8386-446c-a663-af5ee7e2b4f4.svg)](https://wakatime.com/@cdf5e860-8386-446c-a663-af5ee7e2b4f4) с ноября 2020.
 <br>
-<a href="https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb">🎮</a> Свободное время провожу в [Minecraft](https://minecraft.net/) и [Overwatch](https://playoverwatch.com/), также не забываю общаться с друзьями. 
+<a href="https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb">🎮</a> Свободное время провожу в [Minecraft](https://minecraft.net/), также не забываю общаться с друзьями. 
 
 Если у вас есть что-то интересное, то не стесняйтесь писать мне:
 
