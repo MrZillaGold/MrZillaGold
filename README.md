@@ -21,6 +21,12 @@
 <a href="https://wakatime.com/@MrZillaGold">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrZillaGold" alt="MrZillaGold: статистика Wakatime"></code>
 </a>
+
+### Живу музыкой
+
+<a href="https://open.spotify.com/user/jgul8bqe2pdqfe7xkxldqis2w">
+    <img width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=jgul8bqe2pdqfe7xkxldqis2w">
+</a>
 <br>
 <br>
 <br>
